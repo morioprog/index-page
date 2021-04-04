@@ -1,24 +1,9 @@
-# index-page
+<h1 align="center">
+  <a href="">
+    morio.dev
+  </a>
+</h1>
 
-## Project setup
-```
-yarn install
-```
+![CI](https://github.com/morioprog/index-page/workflows/vue-deploy/badge.svg)
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![screenshot](./docs/img/screenshot.png)
