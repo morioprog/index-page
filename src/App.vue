@@ -14,6 +14,7 @@
           <v-card
             class="instaxPhotoContainer"
             v-bind:style="{ transform: `rotate(${photo.rot})` }"
+            v-bind:href="photo.link"
           >
             <img class="instaxPhoto" :src="photo.img" />
             <span class="instaxPhotoTitle">{{ photo.name }}</span>
